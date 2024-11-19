@@ -7,3 +7,13 @@ tmp/
 # Ignore backup and autosave files
 *~
 *.elc
+
+# macOS specific files
+.DS_Store
+
+# Emacs backup and autosave files
+*~
+\#*\#
+
+# Other temp files
+*.swp
